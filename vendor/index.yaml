@@ -1545,3 +1545,7 @@ vendors:
 
   - id: the-box-development
     name: The-Box Development
+
+  - id: test-device
+    name: The-Test device
+    
